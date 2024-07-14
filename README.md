@@ -1,4 +1,4 @@
-![Unnati Banner](11111.png)
+![Unnati Banner](intelbanner.png)
 
 # Power Manager Telemetry
 
