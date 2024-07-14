@@ -9,11 +9,10 @@
 3. [Sharan Susan Aby](https://github.com/sharansuzn)
 4. [Roshan R John](https://github.com/roshanrjohn369)
 5. [Blesson Biji](https://github.com/Blesson56B)
-#### Semester : 6
 
 #### Project Mentor :
  [Dr. Pradeep C](mailto:pradeep.c@saintgits.org)
- 
+ #### Semester : 6
  #### College :
  [Saintgits College of Engineering (Autonomous)](https://saintgits.org/saintgits-college-of-engineering/)
  ## Overview
