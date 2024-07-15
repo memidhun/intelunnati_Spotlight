@@ -2,7 +2,10 @@ Watch our demo video showcasing the functionality of the Power Manager Telemetry
 
 <div align="center">
 
-[![Watch the Demo](https://img.youtube.com/vi/8MjWtnULjgg/0.jpg)](https://youtu.be/8MjWtnULjgg)
+
+https://github.com/user-attachments/assets/4a2331ba-a67a-4f87-a79c-65c6744d8e65
+
+
 
 </div>
 
