@@ -57,11 +57,10 @@ Our project aims to create a comprehensive telemetry system to monitor and manag
 
 ## Plots
 
-- CPU Utilization vs. Power Consumption
-- Memory Usage vs. Power Consumption
-- NIC Activity vs. Power Consumption
-- TDP Levels over Time
-- Table
+- [CPU Utilization vs. Power Consumption](Plots/CPU_vs_SystemPower.png)
+- [Memory Usage vs. Power Consumption](Plots/Memory_vs_Power.png)
+- [NIC Activity vs. Power Consumption](Plots/NIC_Power.png)
+- [TDP Levels over Time](Plots/TDP.png)
 
 ## Technologies Used
 - **Programming Languages**: Python, Bash , Powershell Scripts.
