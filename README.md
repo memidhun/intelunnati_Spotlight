@@ -46,11 +46,12 @@ Our project aims to create a comprehensive telemetry system to monitor and manag
    - Compiled a detailed report on the power problem, technical approach, and results.
 
 ## Plots
-(Include visual representations of your data and results. This section can be populated with graphs and charts that you have generated during your project. Here are some examples of plots you might include.)
+
 - CPU Utilization vs. Power Consumption
 - Memory Usage vs. Power Consumption
 - NIC Activity vs. Power Consumption
 - TDP Levels over Time
+- Table
 
 ## Technologies Used
 - **Programming Languages**: Python, Bash , Powershell Scripts.
