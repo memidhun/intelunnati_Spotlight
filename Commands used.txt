@@ -1,0 +1,10 @@
+powerstat > powerstat_output.txt
+
+powerstat -t 600 > powerstat_output.txt    //for 10min 600=10min
+powerstat -t 600 -i 10 > powerstat_output.txt  //for evey 10 seconds interval -i , for 10 mins 
+
+//convert txt to csv
+
+awk 'BEGIN { print "Time,User,Nice,Sys,Idle,IO,Run,Ctxt_per_s,IRQ_per_s,Watts" } /^[0-9][0-9]:[0-9][0-9]:[0-9][0-9]/ { print $1","$2","$3","$4","$5","$6","$7","$8","$9","$10 }' powerstat_output.txt > powerstat_output.csv
+
+//plot the data
