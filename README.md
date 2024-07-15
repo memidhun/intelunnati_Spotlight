@@ -1,4 +1,4 @@
-![Unnati Banner](intelbanner.png)
+
 # Power Manager Telemetry
 ## Team: Spotlight
 #### Team Members :
@@ -72,3 +72,4 @@ Our Power Manager Telemetry project provides a robust solution for monitoring an
 *Please refer to the project's individual files and directories for detailed information on each aspect, including diagrams, algorithm descriptions, code files, reports, and the final tabulated results.*
 
 Thank you for your interest in our project!
+![Unnati Banner](intelbanner.png)
