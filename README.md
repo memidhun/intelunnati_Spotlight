@@ -72,4 +72,5 @@ Our Power Manager Telemetry project provides a robust solution for monitoring an
 *Please refer to the project's individual files and directories for detailed information on each aspect, including diagrams, algorithm descriptions, code files, reports, and the final tabulated results.*
 
 Thank you for your interest in our project!
+<br>
 ![Unnati Banner](intelbanner.png)
