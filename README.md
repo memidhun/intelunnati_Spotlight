@@ -1,4 +1,3 @@
-# Demo Video
 Watch our demo video showcasing the functionality of the Power Manager Telemetry project:
 
 <div align="center">
