@@ -73,4 +73,5 @@ Our Power Manager Telemetry project provides a robust solution for monitoring an
 
 Thank you for your interest in our project!
 <br>
+<br>
 ![Unnati Banner](intelbanner.png)
