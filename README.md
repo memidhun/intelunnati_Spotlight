@@ -1,3 +1,11 @@
+# Demo Video
+Watch our demo video showcasing the functionality of the Power Manager Telemetry project:
+
+<div align="center">
+
+[![Watch the Demo](https://img.youtube.com/vi/8MjWtnULjgg/0.jpg)](https://youtu.be/8MjWtnULjgg)
+
+</div>
 
 # Power Manager Telemetry
 ## Team: Spotlight
